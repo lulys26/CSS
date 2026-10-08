@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: #0031ad;
+}
+
+section{
+background-color: black;
+border-radius: 15px;
+height: 250px;
+}
+
+ h2{
+    font-size: 30px;
+    color: rgb(254, 255, 255);
+    text-align: justify;
+    padding: 20px;
+}
+
+span{
+    font-size: 30px;
+    color: coral;
+
+}
+
+ p{
+    font-size: 30px;
+    color: rgb(254, 255, 255);
+    text-align:justify;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    align-items: center;
+    font-size: 17px #f8f6f6;
+    border-radius: 10px;
+    background-color: rgb(255, 195, 152);
+    height:30px;
+    font-style: italic;
+    color: black;
+
+
+}
